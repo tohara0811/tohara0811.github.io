@@ -4,6 +4,11 @@
 
 @use "variables" as v;
 
+html,
+body {
+  font-family: "Zen Maru Gothic", sans-serif;
+}
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
