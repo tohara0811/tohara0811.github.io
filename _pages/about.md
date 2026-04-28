@@ -50,9 +50,9 @@ latest_posts:
 
 ###### 査読なし / Non-refereed
 
-- <u>原 知正</u>, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化. [言語処理学会第32回年次大会（NLP 2026）](https://anlp.jp/nlp2026/), March 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C6-22.pdf)]
+- <u>原 知正</u>, 栗田 宙人, 今泉 允聡, 乾 健太郎, 横井 祥. なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化. [言語処理学会第32回年次大会（NLP 2026）](https://anlp.jp/nlp2026/), March 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C6-22.pdf)]
   - [委員特別賞](https://anlp.jp/nlp2026/award.html#menu)（32/748）
-- <u>原 知正</u>, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ一次モーメント情報のみ残したテキスト埋め込みはうまく動くのか？：単語埋め込み集合における二次モーメント情報の崩壊の分析. [第28回情報論的学習理論ワークショップ（IBIS 2025）](https://ibisml.org/ibis2025/), November 2025.
+- <u>原 知正</u>, 栗田 宙人, 今泉 允聡, 乾 健太郎, 横井 祥. なぜ一次モーメント情報のみ残したテキスト埋め込みはうまく動くのか？：単語埋め込み集合における二次モーメント情報の崩壊の分析. [第28回情報論的学習理論ワークショップ（IBIS 2025）](https://ibisml.org/ibis2025/), November 2025.
 - <u>原 知正</u>, 栗田 宙人, 横井 祥, 今泉 允聡, 乾 健太郎. 文長による内容語率の変化が引き起こす文ベクトルの品質低下. [2025年度人工知能学会全国大会（JSAI 2025）](https://www.ai-gakkai.or.jp/jsai2025/), May 2025. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3G1GS603/_article/-char/ja)]
 - 小林 春斗, <u>原 知正</u>, 鴨田 豪, 横井 祥. 層の冗長性と層同士の独立性に基づく言語モデルの層交換の成否の特徴づけ. [言語処理学会第31回年次大会 (NLP 2025)](https://www.anlp.jp/nlp2025/), March 2025. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A5-1.pdf)]
   - [若手奨励賞](https://www.anlp.jp/nlp2025/award.html#menu)（20/487）（賞は第一著者に与えられる）
